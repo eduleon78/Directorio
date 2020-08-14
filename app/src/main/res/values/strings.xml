@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Directorio</string>
+
+    <string name="etNombre">Nombre Completo</string>
+    <string name="Repor_Planned_Date">Fecha de Nacimiento</string>
+
+    <string name="etTelefono">Teléfono</string>
+    <string name="Desc_uno">Imagen telefono</string>
+
+    <string name="etEmail">Email</string>
+    <string name="Desc_dos">Imagen email</string>
+
+    <string name="etDescripcion">Descripcion del Contacto</string>
+
+    <string name="Button1">Siguiente</string>
+    <string name="Button2">Editar</string>
+
+    <string name="tv1">Resultado nombre</string>
+    <string name="tv2">Resultado fecha</string>
+    <string name="tv3">Resultado telefono</string>
+    <string name="tv4">Resultao Email</string>
+    <string name="tv5">Descripcion Contacto</string>
+</resources>
